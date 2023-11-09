@@ -13,7 +13,7 @@
 <br>
 <h2> What is vCenter?</h2>
 <p>vCenter is a service offered by VmWare Workstation that enchances the functionality of the **ESXi Host**.
-*Provides detailed insights into resource usage.
+_Provides detailed insights into resource usage_
 *facilitates the creation of template virtual machines.
 *Allows management of multiple ESXi hosts and virtual machines from a single centralized interface.
 *Enables the configuration and management, of High Availability and Fault Tolerence.
