@@ -12,7 +12,8 @@
 <p>VmWare Workstation is a type 2 hypervisor, that operates on top of an operating system. other examples of type 2 hypervisor, include Orcale VM VirtualBox,  Parallels Desktop, </p>
 <br>
 <h2> What is vCenter?</h2>
-<p>vCenter is a service offered by VmWare Workstation that enchances the functionality of the *ESXi Host*.
+<p>vCenter is a service offered by VmWare Workstation that enchances the functionality of the ***ESXi Host***.
+  <br>
 * - Provides detailed insights into resource usage
 - Provides detailed insights into resource usage
 * Provides detailed insights into resource usage
